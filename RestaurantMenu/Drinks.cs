@@ -11,8 +11,8 @@ namespace RestaurantMenu
         private bool _ishot;
         private bool _withSugar;
 
-        public bool IsHot { get => _ishot; private set => _ishot = value; }
-        public bool WithSugar { get => _withSugar; private set => _withSugar = value; }
+        public bool IsHot { get => _ishot; }
+        public bool WithSugar { get => _withSugar; }
 
         public Drinks(string name, int price, bool ishot, bool withSugar) : base(name, price)
         {

@@ -14,11 +14,11 @@ namespace RestaurantMenu
         private int _portionWeight;
         private bool _isVegetarian;
 
-        public int CookingTime { get => _cookingTime; private set => _cookingTime = value; }
-        public int Temperature { get => _temperature; private set => _temperature = value; }
-        public bool IsSpicy { get => _isSpicy; private set => _isSpicy = value; }
-        public int PortionWeight { get => _portionWeight; private set => _portionWeight = value; }
-        public bool IsVegetarian { get => _isVegetarian; private set => _isVegetarian = value; }
+        public int CookingTime { get => _cookingTime; }
+        public int Temperature { get => _temperature; }
+        public bool IsSpicy { get => _isSpicy; }
+        public int PortionWeight { get => _portionWeight; }
+        public bool IsVegetarian { get => _isVegetarian; }
 
         public HotMeal(string name, int price, int cookingTime, int temperature, 
             bool isSpicy, int portionWeight, bool isVegetarian) 
