@@ -1,0 +1,16 @@
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0-windows\RestaurantMenu.exe
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0-windows\RestaurantMenu.deps.json
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0-windows\RestaurantMenu.runtimeconfig.json
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0-windows\RestaurantMenu.dll
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0-windows\RestaurantMenu.pdb
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.Form1.resources
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.csproj.GenerateResource.cache
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.AssemblyInfoInputs.cache
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.AssemblyInfo.cs
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.dll
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\refint\RestaurantMenu.dll
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.pdb
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.genruntimeconfig.cache
+C:\Users\roldu\source\repos\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\ref\RestaurantMenu.dll
